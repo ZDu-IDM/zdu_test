@@ -19,4 +19,4 @@ pip install numpy pandas matplotlib seaborn jupyterlab ipykernel jupytext
 
 # install idmtools
 pip install idmtools[full] --index-url=https://packages.idmod.org/api/pypi/pypi-production/simple
-pip install idmtools-test --index-url=https://packages.idmod.org/api/pypi/pypi-production/simple
+# pip install idmtools-test --index-url=https://packages.idmod.org/api/pypi/pypi-production/simple
