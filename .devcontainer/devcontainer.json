@@ -17,17 +17,17 @@
       "version": "3.3"
     }
   },
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "ms-python.python",
-        "ms-python.debugpy",
-        "ms-toolsai.jupyter",
-        "ritwickdey.LiveServer",
-        "esbenp.prettier-vscode",
-        "redhat.vscode-yaml"
-      ]
-    }
-  },
+//  "customizations": {
+//    "vscode": {
+//      "extensions": [
+//        "ms-python.python",
+//        "ms-python.debugpy",
+//        "ms-toolsai.jupyter",
+//        "ritwickdey.LiveServer",
+//        "esbenp.prettier-vscode",
+//        "redhat.vscode-yaml"
+//      ]
+//    }
+//  },
   "postCreateCommand": "bash ./.devcontainer/setup.sh"
 }
